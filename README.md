@@ -13,11 +13,11 @@ I'm Gunnar Karlsson, software developer. I work mostly with Rust and Android/Kot
 * [AndroidCryptoWallet](https://github.com/GunnarKarlsson/AndroidCryptoWallet) - An Android cryto wallet with support for Bitcoin and EVM-based tokens including Ethereum.
 
 ## Writings:
-* [Let's build a Bitcoin wallet in Rust)(https://medium.com/@gunnar.h.karlsson/lets-build-a-bitcoin-wallet-in-rust-part-i-7c3c80110d68)
+* [Let's build a Bitcoin wallet in Rust](https://medium.com/@gunnar.h.karlsson/lets-build-a-bitcoin-wallet-in-rust-part-i-7c3c80110d68)
 
 * [Enforce method order in Rust with the typestate pattern](https://medium.com/@gunnar.h.karlsson/enforce-method-order-in-rust-with-the-typestate-pattern-c5ec25c30c42)
 
-* [Enforce use of your new constructor in Rust](https://medium.com/@gunnar.h.karlsson/forcing-use-of-your-new-constructor-in-rust-f1cf78dcd122}
+* [Enforce use of your new constructor in Rust](https://medium.com/@gunnar.h.karlsson/forcing-use-of-your-new-constructor-in-rust-f1cf78dcd122)
 
 * more Medium articles [here](https://medium.com/@gunnar.h.karlsson)
 
