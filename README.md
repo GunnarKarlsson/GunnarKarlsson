@@ -4,7 +4,7 @@ I'm Gunnar Karlsson, software developer. I work mostly with Rust and Android/Kot
 
 ## Things I've built:
 
-* [Eld network](https://github.com/eldnetwork/eld-chain), a Tendermint-based blockchain protocol, written in Rust, for time-based data storage. In development and now on Testnet.
+* [Eld network](https://github.com/eldnetwork/eld-chain) - a Tendermint-based blockchain protocol, written in Rust, for time-based data storage. In development and now on Testnet.
 
 * [Android dashboard](https://github.com/GunnarKarlsson/android-dashboard) - an ai-powered dashboard tool for debugging Android apps.
 
