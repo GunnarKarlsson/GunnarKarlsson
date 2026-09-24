@@ -26,4 +26,4 @@ I'm on [Stackoverflow](https://stackoverflow.com/users/898375/gunnar-karlsson) w
 
 [LinkedIn](https://www.linkedin.com/in/gunnarkarlsson-developer/)
 
-[Click here to visit Google](https://www.google.com)
+
