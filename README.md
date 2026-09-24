@@ -2,7 +2,7 @@
 
 I'm Gunnar Karlsson, software developer. I work mostly with Rust and Android/Kotlin, and sometimes web. 
 
-## Things I've built:
+## Things I've built
 
 * [Eld network](https://github.com/eldnetwork/eld-chain) - a Tendermint-based blockchain protocol, written in Rust, for time-based data storage. In development and now on Testnet.
 
@@ -12,7 +12,7 @@ I'm Gunnar Karlsson, software developer. I work mostly with Rust and Android/Kot
 
 * [AndroidCryptoWallet](https://github.com/GunnarKarlsson/AndroidCryptoWallet) - An Android cryto wallet with support for Bitcoin and EVM-based tokens including Ethereum.
 
-## Writings:
+## Writings
 * [Let's build a Bitcoin wallet in Rust](https://medium.com/@gunnar.h.karlsson/lets-build-a-bitcoin-wallet-in-rust-part-i-7c3c80110d68)
 
 * [Enforce method order in Rust with the typestate pattern](https://medium.com/@gunnar.h.karlsson/enforce-method-order-in-rust-with-the-typestate-pattern-c5ec25c30c42)
